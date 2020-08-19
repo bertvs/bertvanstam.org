@@ -1,0 +1,13 @@
+ServerSignature Off
+
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{HTTPS} !=on
+RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R,L]
+
+RewriteCond %{REQUEST_URI} \.(png|jpg|gif|jpeg|bmp|css|ico)$ [NC]
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule ^ - [L]
+
+RewriteRule ^(.+)$ index.php [QSA,L]
