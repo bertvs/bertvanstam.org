@@ -7,7 +7,7 @@
 Kerkdienst<br />
 Zie <a href="https://maranathakerkdenhaag.nl/" target="_blank" rel="noopener noreferrer">website Maranathakerk</a> voor de Orde van Dienst</p>
 
-<h3>11 oktober &#183; 17.00 uur</h3>
+<h3><del>11 oktober &#183; 17.00 uur</del> Afgelast</h3>
 <p>Maranathakerk Den Haag<br />
 Concert orgel en fluit<br />
 Wendela van Swol, fluit<br />
