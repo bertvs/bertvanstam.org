@@ -1,40 +1,27 @@
 <?php require 'header.php'; ?>
 
+
 <h1>11 oktober 2020, 17.00 uur</h1>
-<h2>Concert orgel en fluit</h2>
+<h2>Duo-improvisatieconcert op joodse thema's</h2>
 <p><a href="https://maranathakerkdenhaag.nl/" target="_blank" rel="noopener noreferrer">Maranathakerk Den Haag</a><br />
-Wendela van Swol, fluit<br />
+Gerben Mourik, orgel<br />
 Bert van Stam, orgel</p>
 <h3>Programma</h3>
-<h4>Carl Philipp Emanuel Bach (1714-1788)</h4>
-<p>Sonate  voor fluit of viool en obligaat klavecimbel in g kl. H.524.5<br />
-Voorheen toegeschreven aan J. S. Bach onder BWV 1020</p>
-<ol>
-<li>(Allegro)</li>
-<li>Adagio</li>
-<li>Allegro</li>
-</ol>
-<h4>Gabriel Fauré (1845-1924)</h4>
-<p>Sicilienne uit ‘Pelléas et Mélisande’, Op. 80/3</p>
-<h4>Dick Sanderman (* 1956)</h4>
-<p>Música de Pascua</p>
-<ol>
-<li>Felicidad</li>
-<li>Pensamiento</li>
-<li>Trapo</li>
-</ol>
-<h4>Johann Sebastian Bach (1685-1750)</h4>
-<p>Preludium en fuga in a kl., BWV 542</p>
-<h4>Johannès Donjon (1839-1912)</h4>
-<p>Offertoire, Op. 12</p>
-<h4>Gabriel Fauré</h4>
-<p>arr. W.van Klaveren<br />
-Cantique de Jean Racine, Op. 11</p>
-<h4>Rogier van Otterloo (1941-1988)</h4>
-<p>arr. W.van Swol</p>
+<p>Thema: de joodse feestdag <em>Simchat Tora</em> (Vreugde der wet).</p>
+<h4>Bert van Stam</h4>
+<h4>Dies sind die heil'gen zehn Gebot - 2 bewerkingen</h4>
+<p>Johann Sebastian Bach (1685-1750)
 <ul>
-<li>Rondo</li>
-<li>Rondo II</li>
-</ul>
+  <li>à 2 Clav. et Ped, Canto fermo in Canone, BWV 678</li>
+  <li>à 2 Clav. et Ped, Canto fermo in Canone, BWV 678</li>
+</ul></p>
+<h4>Twee improvisaties over een psalm</h4>
+<h4>Dance with me (Klezmer feel)</h4>
+<p>Michael Schütz (1963)</p>
+<h4>Gerben Mourik</h4>
+<h4>Partita Psalm 119</h4>
+<p>Herman van Vliet (1941-2018)</p>
+<h4>Improvisaties bij het scheppingsverhaal</h4>
+<p>Genesis 1:1 - 2:3</p>
 <p><br/><a href="/agenda">Terug naar agenda</a></p>
 <?php require 'footer.php'; ?>

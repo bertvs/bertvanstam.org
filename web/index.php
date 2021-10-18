@@ -12,6 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] !== 'GET')
 }
 
 $request = rtrim($_SERVER['REQUEST_URI'], '/');
+$request = strtok($request, '?');
 
 if ($request == '') {
     require 'pages/home.php';

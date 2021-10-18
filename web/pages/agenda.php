@@ -2,19 +2,70 @@
 
 <h1>Agenda</h1>
 
-<h3>Elke zondag &#183; 10.30 uur</h3>
+<h3>19 december &#183; 17.00 uur</h3>
 <p>Maranathakerk Den Haag<br />
-Kerkdienst<br />
-Zie <a href="https://maranathakerkdenhaag.nl/" target="_blank" rel="noopener noreferrer">website Maranathakerk</a> voor de Orde van Dienst</p>
-
-<h3><del>11 oktober &#183; 17.00 uur</del> Afgelast</h3>
-<p>Maranathakerk Den Haag<br />
-Concert orgel en fluit<br />
-Wendela van Swol, fluit<br />
+Samenzang en muziek in de sfeer van Kerst<br />
 Bert van Stam, orgel<br />
+Meer informatie volgt</p>
+
+<h3>10 maart 2022 &#183; 20.30 uur</h3>
+<p>Kathedrale Basiliek Sint Bavo, Haarlem<br />
+Stilteconcert<br />
+met nieuw werk van <a href="https://soundcloud.com/kees-wisse" target="_blank" rel="noopener noreferrer">Kees Wisse</a><br />
+Bas Duister, Ferdi Seelbach en Hans de Munnik, trompet<br />
+Bert van Stam, orgel<br />
+<a href="https://www.koepelkathedraal.nl/geloof-in-geluk/#agenda" target="_blank" rel="noopener noreferrer">Meer informatie en tickets</a></p>
+
+<h2>Archief 2021</h2>
+
+<h3>20 april &#183; 12.45 uur</h3>
+<p>Laurenskerk Rotterdam<br />
+Orgelconcert<br />
+Bert van Stam, orgel<br />
+<a href="/agenda/2021-04-20">Meer informatie</a></p>
+
+<h3>14 augustus &#183; 15.00 uur</h3>
+<p>Grote of St. Michaelskerk, Oudewater<br />
+Zaterdagmiddagconcert<br />
+Wéndela van Swol, dwarsfluit en Bert van Stam, orgel<br />
+<a href="/agenda/2021-08-14">Meer informatie</a></p>
+
+<h3>15 augustus &#183; 17.00 uur</h3>
+<p>Maranathakerk, Den Haag<br />
+Zomerconcert<br />
+Wéndela van Swol, dwarsfluit en Bert van Stam, orgel<br />
+<a href="/agenda/2021-08-15">Meer informatie</a></p>
+
+<h3>1 oktober &#183; 15.30 uur</h3>
+<p>Maranathakerk, Den Haag<br />
+Nieuwe muziek voor het Maranatha-orgel<br />
+Studenten van het Koninklijk Conservatorium Den Haag, composities<br />
+Guus Janssen, supervisie<br />
+Bert van Stam, orgel<br />
+<a href="/agenda/2021-10-01">Meer informatie</a></p>
+
+<h3>10 oktober &#183; 14.15 uur</h3>
+<p>Orgelpark Amsterdam<br />
+Componistenportret Klaas de Vries<br />
+'Boustrophedon' voor vier orgels, en andere werken</br>
+<a href="https://www.orgelpark.nl/nl/Agenda/Componistenportret%3A-Klaas-De-Vries@10-10-2021[14:15]" target="_blank" rel="noopener noreferrer">Meer informatie en tickets</a></p>
+
+<h2>2020</h2>
+
+<h3>11 oktober &#183; 17.00 uur</h3>
+<p>Maranathakerk Den Haag<br />
+Duo-improvisatieconcert op joodse thema's<br />
+Gerben Mourik en Bert van Stam, orgel<br />
 <a href="/agenda/2020-10-11">Meer informatie</a></p>
 
-<h2>Archief 2019</h2>
+<h3>13 december &#183; 17.00 uur</h3>
+<p>Maranathakerk Den Haag<br />
+Muziek in de sfeer van Kerst<br />
+vocaal ensemble De Byrds o.l.v. Elodie Schuddeboom<br />
+Eduard Preda, piano</br />
+Bert van Stam, orgel<br /></p>
+
+<h2>2019</h2>
 
 <h3>31 maart &#183; 17.00 uur</h3>
 <p>Pfarrkirche, Diepoldsau (Zwitserland)<br />

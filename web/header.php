@@ -3,11 +3,11 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width">
-	<link href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,700;1,400&family=Satisfy&display=swap" rel="stylesheet">
 	<title>Bert van Stam &#8211; Organist en Componist</title>
-	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
-	<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
 	<link rel='stylesheet' href='/style.css' media='all' />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,700;1,400&family=Playfair+Display&display=swap" rel="stylesheet">
 </head>
 <body>
 	<header id="menu">
@@ -24,8 +24,8 @@
 		<nav>
 			<ul>
 				<?php if ($request == '/agenda') { ?><li class="active">Agenda</li><?php } else { ?><li><a href="/agenda">Agenda</a></li><?php } ?>
-				<?php if ($request == '/muziek') { ?><li class="active">Muziek</li><?php } else { ?><li><a href="/muziek">Muziek</a></li><?php } ?>
-				<?php if ($request == '/artikelen') { ?><li class="active">Artikelen</li><?php } else { ?><li><a href="/artikelen">Artikelen</a></li><?php } ?>
+				<?php if ($request == '/albums') { ?><li class="active">Albums</li><?php } else { ?><li><a href="/albums">Albums</a></li><?php } ?>
+				<?php if ($request == '/composities') { ?><li class="active">Composities</li><?php } else { ?><li><a href="/composities">Composities</a></li><?php } ?>
 				<?php if ($request == '/biografie') { ?><li class="active">Biografie</li><?php } else { ?><li><a href="/biografie">Biografie</a></li><?php } ?>
 				<hr>
 				<li><a href="http://en.bertvanstam.org">English</a></li>

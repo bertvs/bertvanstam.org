@@ -1,19 +1,7 @@
 <?php require 'header.php'; ?>
 
-<h1>Muziek</h1>
-<h2 id="albums">Albums</h2>
+<h1>Composities</h1>
 
-<h3>La Belle Époque 1890-1914</h3>
-<p><img src="/belle-epoque.jpg" alt="la belle epoque" width=250px/></p>
-<p>Opgenomen op het Franssen-orgel, Elandstraatkerk Den Haag</p>
-<p><a href="/belle-epoque">Meer informatie</a> | <a href="https://www.valeurajoutee.eu/en/product/bert-van-stam-la-belle-epoque-cd/" target="_blank" rel="noopener noreferrer">Bestel direct</a></p>
-
-<h3>Sprezzatura</h3>
-<p><img src="/sprezzatura.jpg" alt="sprezzatura" width=250px/></p>
-<p>Opgenomen op het Mense Ruiter-orgel, Maranathakerk Den Haag</p>
-<p><a href="/sprezzatura">Meer informatie</a> | <a href="https://www.valeurajoutee.eu/product/english-bert-van-stam-sprezzatura-cd/" target="_blank" rel="noopener noreferrer">Bestel direct</a></p>
-
-<h2 id="composities">Composities</h2>
 <h3>Sonate no. 1 &#8216;Nicæa&#8217; (Unity, Trinity, Infinity)</h3>
 <p>voor orgel | 2020</p>
 

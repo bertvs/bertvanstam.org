@@ -8,5 +8,8 @@
 <p><strong>Sprezzatura</strong> is Bert van Stam&#8217;s debut album. The title of this album is an Italian word that refers to art that is sophisticated, but at the same time appears naturally and effortless. This also holds for the music on this album: refined virtuosity!</p>
 <p>This album contains music by Johann Sebastian Bach, Wolfgang Amadeus Mozart, Michael Radulescu, Michael Schütz and own work by Bert van Stam.</p>
 <p>The music is recorded on 17th and 18th October 2018 at the Mense Ruiter organ (1952, 23/IIP) in the Maranathakerk in The Hague.</p>
-
+<div class="media">
+<iframe width="600" height="315" src="https://www.youtube.com/embed/5ThneI1F384" frameborder="0" style="max-width:100%">
+</iframe>
+</div>
 <?php require 'footer.php'; ?>
