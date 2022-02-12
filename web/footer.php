@@ -55,13 +55,13 @@
                 document.body.setAttribute('data-theme', 'dark');
                 localStorage.setItem('themeSwitch', 'dark');
                 if (label) {
-                    label.innerHTML = "Light theme";
+                    label.innerHTML = "Licht thema";
                 }
             } else {
                 document.body.removeAttribute('data-theme');
                 localStorage.setItem('themeSwitch', 'light');
                 if (label) {
-                    label.innerHTML = "Dark theme";
+                    label.innerHTML = "Donker thema";
                 }
             }
         };

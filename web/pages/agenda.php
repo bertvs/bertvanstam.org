@@ -2,6 +2,7 @@
 
 <h1>Agenda</h1>
 
+<h2>2022</h2>
 <h3>19 december &#183; 17.00 uur</h3>
 <p>Maranathakerk Den Haag<br />
 Samenzang en muziek in de sfeer van Kerst<br />
@@ -16,7 +17,7 @@ Bas Duister, Ferdi Seelbach en Hans de Munnik, trompet<br />
 Bert van Stam, orgel<br />
 <a href="https://www.koepelkathedraal.nl/geloof-in-geluk/#agenda" target="_blank" rel="noopener noreferrer">Meer informatie en tickets</a></p>
 
-<h2>Archief 2021</h2>
+<h2>Archief - 2021</h2>
 
 <h3>20 april &#183; 12.45 uur</h3>
 <p>Laurenskerk Rotterdam<br />

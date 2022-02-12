@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
     <title>Bert van Stam &#8211; Organist and Composer</title>
-    <link rel='stylesheet' href='style.css?v=2.1' media='all' />
+    <link rel='stylesheet' href='/style.css?v=2.2' media='all' />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,700;1,400" rel="stylesheet">
