@@ -25,15 +25,21 @@ body {
 }
 
 a,
-label {
+label,
+.collapsible {
     color: #505050;
     cursor: pointer
 }
 
 .active,
 a:hover,
-label:hover {
+label:hover,
+.collapsible:hover {
     color: #000
+}
+
+.collapsible.active .bi-chevron-down::before {
+    transform: rotate(180deg);
 }
 
 blockquote {
@@ -64,13 +70,15 @@ blockquote {
 }
 
 [data-theme=dark] a,
-[data-theme=dark] label {
+[data-theme=dark] label,
+[data-theme=dark] .collapsible {
     color: #ccc
 }
 
 [data-theme=dark] .active,
 [data-theme=dark] a:hover,
-[data-theme=dark] label:hover {
+[data-theme=dark] label:hover,
+[data-theme=dark] .collapsible:hover {
     color: #efefef
 }
 
