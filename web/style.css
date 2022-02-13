@@ -51,7 +51,7 @@ blockquote {
 }
 
 [data-theme=dark] {
-    color: #afafaf
+    color: #afafaf;
 }
 
 [data-theme=dark] main {
@@ -62,11 +62,6 @@ blockquote {
 [data-theme=dark] header,
 [data-theme=dark] header nav ul {
     background-color: #252525
-}
-
-[data-theme=dark] .strong {
-    font-weight: initial;
-    color: #efefef
 }
 
 [data-theme=dark] a,
@@ -95,7 +90,7 @@ blockquote {
 }
 
 body {
-    font-family: Cabin, sans-serif;
+    font-family: Lato, sans-serif;
     line-height: 1.8
 }
 
