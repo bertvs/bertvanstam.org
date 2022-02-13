@@ -3,19 +3,20 @@
 <h1>Agenda</h1>
 
 <h2>2022</h2>
-<h4>19 december &#183; 17.00 uur</h4>
-<p>Maranathakerk Den Haag<br />
-Samenzang en muziek in de sfeer van Kerst<br />
-Bert van Stam, orgel<br />
-Meer informatie volgt</p>
 
-<h4>10 maart 2022 &#183; 20.30 uur</h4>
+<h4>10 maart &#183; 20.30 uur</h4>
 <p>Kathedrale Basiliek Sint Bavo, Haarlem<br />
 Stilteconcert<br />
 met nieuw werk van <a href="https://soundcloud.com/kees-wisse" target="_blank" rel="noopener noreferrer">Kees Wisse</a><br />
 Bas Duister, Ferdi Seelbach en Hans de Munnik, trompet<br />
 Bert van Stam, orgel<br />
 <a href="https://www.koepelkathedraal.nl/geloof-in-geluk/#agenda" target="_blank" rel="noopener noreferrer">Meer informatie en tickets</a></p>
+
+<h4>22 mei &#183; 17.00 uur</h4>
+<p>Maranathakerk, Den Haag<br />
+Orgelconcerten van Händel en Haydn<br />
+Musica Poetica o.l.v. Jörn Boysen<br />
+Bert van Stam, orgel<br /></p>
 
 <h2 class="collapsible">Archief 2021<small>&ensp;<i class="bi bi-chevron-down"></small></i></h2>
 <div style="display:none">
