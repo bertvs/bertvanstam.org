@@ -4,7 +4,7 @@
 
 <h2>2022</h2>
 
-<h4>10 maart &#183; 20.30 uur</h4>
+<h4>19 maart &#183; 20.30 uur</h4>
 <p>Kathedrale Basiliek Sint Bavo, Haarlem<br />
 Stilteconcert<br />
 met nieuw werk van <a href="https://soundcloud.com/kees-wisse" target="_blank" rel="noopener noreferrer">Kees Wisse</a><br />
