@@ -1,22 +1,30 @@
 </main>
     <footer>
         <nav>
-
             <div>
                 <div class="strong">Bert van Stam, organist&nbsp;en&nbsp;componist</div>
                 <div><input type="checkbox" id="themeswitch"><label for="themeswitch"><span id="themeswitch-labeltext">Donker thema</span>&ensp;<i
 							class="bi bi-lightbulb-fill"></i></label></div>
             </div>
+            <h4>Beluister</h4>
+            <ul>
+                <li>
+                    <a href="https://music.apple.com/us/artist/bert-van-stam/1639463577" target="_blank" rel="noopener noreferrer"><i class="bi bi-apple"></i>&ensp;Apple Music</a>
+                </li>
+                <li><a href="https://open.spotify.com/artist/04K42M6p1kLsLFVcfOKlFI" target="_blank" rel="noopener noreferrer"><i
+							class="bi bi-spotify"></i>&ensp;Spotify</a></li>
+                <li><a href="https://www.youtube.com/channel/UCdPF_RqksIFIJuHUwqkRbFQ" target="_blank" rel="noopener noreferrer"><i class="bi bi-youtube"></i>&ensp;YouTube</a></li>
+            </ul>
+            <h4>Contact</h4>
             <ul>
                 <li>
                     <a href="mailto:info@bertvanstam.org"><i class="bi bi-envelope"></i>&ensp;E-mail</a>
                 </li>
                 <li><a href="https://wa.me/31624795014" target="_blank" rel="noopener noreferrer"><i
 							class="bi bi-whatsapp"></i>&ensp;WhatsApp</a></li>
-                <li><a href="https://www.youtube.com/channel/UCdPF_RqksIFIJuHUwqkRbFQ" target="_blank" rel="noopener noreferrer"><i class="bi bi-youtube"></i>&ensp;YouTube</a></li>
             </ul>
-            <div class="smallcaps">
-                <div><a href="https://en.bertvanstam.org">English</a></div>
+            <div>
+                <div><h4><a href="https://en.bertvanstam.org">English</a><h4></div>
                 <div><a href="#">Terug naar boven&ensp;<i class="bi bi-arrow-up-circle"></i></a></div>
             </div>
         </nav>

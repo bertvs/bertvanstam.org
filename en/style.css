@@ -95,10 +95,6 @@ body {
 }
 
 p {
-    margin-top: .4rem
-}
-
-p+p {
     margin-top: 1rem
 }
 
@@ -117,6 +113,8 @@ footer {
 }
 
 footer a,
+h1 a,
+ul a,
 h2 a,
 header a {
     text-decoration: none
@@ -140,7 +138,6 @@ main {
     padding-right: 16vw
 }
 
-footer *,
 header * {
     margin: 0
 }
@@ -244,7 +241,7 @@ footer {
     margin-top: auto
 }
 
-nav ul {
+ul {
     list-style: none
 }
 
@@ -272,16 +269,6 @@ header nav ul li {
 
 header nav ul li:last-child {
     margin-right: 0
-}
-
-footer nav ul {
-    margin-top: 1.5rem;
-    margin-bottom: 1.5rem
-}
-
-footer nav ul li {
-    margin-top: .8rem;
-    margin-bottom: .8rem
 }
 
 .nav-buttons {

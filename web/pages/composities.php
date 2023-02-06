@@ -2,6 +2,10 @@
 
 <h1>Composities</h1>
 
+<h3>Passacaglia - In memoriam Hugo Bakker</h3>
+<p>voor orgel | 2021<br />
+<a href="https://www.youtube.com/watch?v=9hnl9Ta97no" target="_blank" rel="noopener noreferrer">Video</a></p>
+
 <h3>Sonate no. 1 &#8216;Nicæa&#8217; (Unity, Trinity, Infinity)</h3>
 <p>voor orgel | 2020</p>
 
@@ -28,8 +32,7 @@
 <p>Allegretto uit symfonie no. 10 | 2013<br />
 <a href="http://youtu.be/dnOTC5OsSGY" target="_blank" rel="noopener noreferrer">Video</a></p>
 <h3>Wolfgang Amadeus Mozart &#8211; Klarinetkwintet</h3>
-<p>K. 581 | 2018<br />
-<a href="https://www.youtube.com/watch?v=AoYqOR_JlI8" target="_blank" rel="noopener noreferrer">Video</a> | <a href="https://www.valeurajoutee.eu/product/w-a-mozart-arr-bert-van-stam-klarinetkwintet-k-581/" target="_blank" rel="noopener noreferrer">Bladmuziek</a></p>
+<p>K. 581 | 2018, herzien 2022</p>
 			
 
 <?php require 'footer.php'; ?>
